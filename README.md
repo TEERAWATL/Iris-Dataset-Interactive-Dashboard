@@ -10,9 +10,9 @@ Run on Colab: Yes
 
 ## Dependencies
 To run this project, you need to have the following libraries installed:
-pandas
-plotly.express
-jupyter_dash
-dash_core_components
-dash_html_components
-scikit-learn
+- pandas
+- plotly.express
+- jupyter_dash
+- dash_core_components
+- dash_html_components
+- scikit-learn
